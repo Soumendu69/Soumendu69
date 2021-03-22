@@ -8,7 +8,7 @@
 -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 rom porter 
 - 
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Mechanical Engineering 𝚊𝚝 Kalinga Institute of Industrial Technology ,
 
